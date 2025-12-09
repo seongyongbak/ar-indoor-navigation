@@ -1,5 +1,9 @@
 # ar-indoor-navigation
 Android AR Indoor Navagation App
+
+### 📌 Demo Animation (GIF)
+![Demo GIF](example/demo-4.gif)
+
 ## Demo Images
 
 ### 📌 Demo 1
@@ -11,5 +15,3 @@ Android AR Indoor Navagation App
 ### 📌 Demo 3
 ![Demo 3](example/demo-3.png)
 
-### 📌 Demo Animation (GIF)
-![Demo GIF](example/demo-4.gif)
