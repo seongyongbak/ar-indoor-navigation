@@ -1,0 +1,350 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:3:1-71:12
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c03725f5f6ac78c6959e798a23254674\android.arch.lifecycle.runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:17:1-49:12
+MERGED from [:arcore_rendering_utils:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65b3535f5d1ffb27c58191cc940c7ae8\arcore_rendering_utils\AndroidManifest.xml:2:1-11:12
+MERGED from [:arcore_unity:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\59b2822cd5fa3e0d9484227c407d8820\arcore_unity\AndroidManifest.xml:2:1-11:12
+MERGED from [:com.android.support.support-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2e86c8f81429cf86580ffeed8f630101\com.android.support.support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0e0fb328c251d159eb096884a43e4b\com.android.support.support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1984686e2f8aaf8d7d213bd14374e68b\com.android.support.support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9407121168f349564c8239cd9d32e764\com.android.support.support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0b21edd2a5757f7cd5efe1fab4533039\com.android.support.support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bea8a3be62a6c9811621a393d0c9f5f3\com.android.support.support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [:com.google.android.gms.play-services-auth-base-16.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7868d6cbddd6f26f4f79f21b5463db55\com.google.android.gms.play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a766c3b61a3d5cc901a14d0258d52743\com.google.android.gms.play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\574e55710f4c3854216ef43c84ffde88\com.google.android.gms.play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7ce915331722f100ffca7204df7e303d\com.google.android.gms.play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [:customized_manifest:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c85beb83b924f90c359e00577f469a0c\customized_manifest\AndroidManifest.xml:2:1-4:12
+MERGED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:2:1-19:12
+MERGED from [:keyless_authentication:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c15b1f8e54b834d41d249a61404d87a\keyless_authentication\AndroidManifest.xml:2:1-9:12
+MERGED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:unityandroidpermissions:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\600c0f52fe9ee4daf44908bad42317f7\unityandroidpermissions\AndroidManifest.xml:6:1-15:12
+MERGED from [:unitygar:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8ab5a22033409d54c69c5ca354179741\unitygar\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:70-112
+		INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:113-159
+	android:versionCode
+		INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:160-200
+supports-screens
+ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:3-116
+MERGED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-69:19
+MERGED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-69:19
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c03725f5f6ac78c6959e798a23254674\android.arch.lifecycle.runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c03725f5f6ac78c6959e798a23254674\android.arch.lifecycle.runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:33:5-47:19
+MERGED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:33:5-47:19
+MERGED from [:com.android.support.support-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2e86c8f81429cf86580ffeed8f630101\com.android.support.support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2e86c8f81429cf86580ffeed8f630101\com.android.support.support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0e0fb328c251d159eb096884a43e4b\com.android.support.support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0e0fb328c251d159eb096884a43e4b\com.android.support.support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1984686e2f8aaf8d7d213bd14374e68b\com.android.support.support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1984686e2f8aaf8d7d213bd14374e68b\com.android.support.support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9407121168f349564c8239cd9d32e764\com.android.support.support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9407121168f349564c8239cd9d32e764\com.android.support.support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0b21edd2a5757f7cd5efe1fab4533039\com.android.support.support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0b21edd2a5757f7cd5efe1fab4533039\com.android.support.support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bea8a3be62a6c9811621a393d0c9f5f3\com.android.support.support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bea8a3be62a6c9811621a393d0c9f5f3\com.android.support.support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a766c3b61a3d5cc901a14d0258d52743\com.google.android.gms.play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a766c3b61a3d5cc901a14d0258d52743\com.google.android.gms.play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\574e55710f4c3854216ef43c84ffde88\com.google.android.gms.play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\574e55710f4c3854216ef43c84ffde88\com.google.android.gms.play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7ce915331722f100ffca7204df7e303d\com.google.android.gms.play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7ce915331722f100ffca7204df7e303d\com.google.android.gms.play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:13:5-17:19
+MERGED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:13:5-17:19
+	android:extractNativeLibs
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:49-81
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:82-113
+uses-sdk
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c03725f5f6ac78c6959e798a23254674\android.arch.lifecycle.runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c03725f5f6ac78c6959e798a23254674\android.arch.lifecycle.runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:25:5-27:41
+MERGED from [:arcore_rendering_utils:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65b3535f5d1ffb27c58191cc940c7ae8\arcore_rendering_utils\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_rendering_utils:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\65b3535f5d1ffb27c58191cc940c7ae8\arcore_rendering_utils\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\59b2822cd5fa3e0d9484227c407d8820\arcore_unity\AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_unity:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\59b2822cd5fa3e0d9484227c407d8820\arcore_unity\AndroidManifest.xml:7:5-9:41
+MERGED from [:com.android.support.support-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2e86c8f81429cf86580ffeed8f630101\com.android.support.support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2e86c8f81429cf86580ffeed8f630101\com.android.support.support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0e0fb328c251d159eb096884a43e4b\com.android.support.support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0e0fb328c251d159eb096884a43e4b\com.android.support.support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1984686e2f8aaf8d7d213bd14374e68b\com.android.support.support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1984686e2f8aaf8d7d213bd14374e68b\com.android.support.support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9407121168f349564c8239cd9d32e764\com.android.support.support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9407121168f349564c8239cd9d32e764\com.android.support.support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0b21edd2a5757f7cd5efe1fab4533039\com.android.support.support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0b21edd2a5757f7cd5efe1fab4533039\com.android.support.support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bea8a3be62a6c9811621a393d0c9f5f3\com.android.support.support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bea8a3be62a6c9811621a393d0c9f5f3\com.android.support.support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [:com.google.android.gms.play-services-auth-base-16.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7868d6cbddd6f26f4f79f21b5463db55\com.google.android.gms.play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-auth-base-16.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7868d6cbddd6f26f4f79f21b5463db55\com.google.android.gms.play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a766c3b61a3d5cc901a14d0258d52743\com.google.android.gms.play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a766c3b61a3d5cc901a14d0258d52743\com.google.android.gms.play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\574e55710f4c3854216ef43c84ffde88\com.google.android.gms.play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\574e55710f4c3854216ef43c84ffde88\com.google.android.gms.play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7ce915331722f100ffca7204df7e303d\com.google.android.gms.play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7ce915331722f100ffca7204df7e303d\com.google.android.gms.play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [:customized_manifest:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c85beb83b924f90c359e00577f469a0c\customized_manifest\AndroidManifest.xml:3:3-42
+MERGED from [:customized_manifest:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c85beb83b924f90c359e00577f469a0c\customized_manifest\AndroidManifest.xml:3:3-42
+MERGED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:7:5-44
+MERGED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:7:5-44
+MERGED from [:keyless_authentication:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c15b1f8e54b834d41d249a61404d87a\keyless_authentication\AndroidManifest.xml:7:5-44
+MERGED from [:keyless_authentication:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2c15b1f8e54b834d41d249a61404d87a\keyless_authentication\AndroidManifest.xml:7:5-44
+MERGED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unityandroidpermissions:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\600c0f52fe9ee4daf44908bad42317f7\unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\600c0f52fe9ee4daf44908bad42317f7\unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8ab5a22033409d54c69c5ca354179741\unitygar\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8ab5a22033409d54c69c5ca354179741\unitygar\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.android.support.support-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2e86c8f81429cf86580ffeed8f630101\com.android.support.support-compat-26.1.0\AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:19-51
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-62
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-67
+MERGED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:13:5-67
+MERGED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-86
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-83
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-49:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:13-45:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:13-48:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-53
+meta-data#unity.arcore-enable
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:9-53:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-47
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:9-56:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-61
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:9-59:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:9-62:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:9-65:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:9-68:68
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Administrator\Desktop\UnityExample\navigation_qlearning\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-42
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c03725f5f6ac78c6959e798a23254674\android.arch.lifecycle.runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c03725f5f6ac78c6959e798a23254674\android.arch.lifecycle.runtime-1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c03725f5f6ac78c6959e798a23254674\android.arch.lifecycle.runtime-1.0.0\AndroidManifest.xml:26:13-58
+queries
+ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:29:5-31:15
+package#com.google.ar.core
+ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:30:18-51
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:36:9-38:41
+	android:value
+		ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:38:13-38
+	android:name
+		ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:37:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:40:9-46:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:45:13-43
+	android:exported
+		ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:44:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:42:13-74
+	android:theme
+		ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:46:13-77
+	android:name
+		ADDED from [:arcore_client:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6b2eff82af4ce35dab4257dc55bbce1f\arcore_client\AndroidManifest.xml:41:13-62
+meta-data#android.support.VERSION
+ADDED from [:com.android.support.support-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2e86c8f81429cf86580ffeed8f630101\com.android.support.support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0e0fb328c251d159eb096884a43e4b\com.android.support.support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ad0e0fb328c251d159eb096884a43e4b\com.android.support.support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1984686e2f8aaf8d7d213bd14374e68b\com.android.support.support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1984686e2f8aaf8d7d213bd14374e68b\com.android.support.support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9407121168f349564c8239cd9d32e764\com.android.support.support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9407121168f349564c8239cd9d32e764\com.android.support.support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0b21edd2a5757f7cd5efe1fab4533039\com.android.support.support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\0b21edd2a5757f7cd5efe1fab4533039\com.android.support.support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bea8a3be62a6c9811621a393d0c9f5f3\com.android.support.support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bea8a3be62a6c9811621a393d0c9f5f3\com.android.support.support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:com.android.support.support-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2e86c8f81429cf86580ffeed8f630101\com.android.support.support-compat-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [:com.android.support.support-compat-26.1.0:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2e86c8f81429cf86580ffeed8f630101\com.android.support.support-compat-26.1.0\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a766c3b61a3d5cc901a14d0258d52743\com.google.android.gms.play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a766c3b61a3d5cc901a14d0258d52743\com.google.android.gms.play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a766c3b61a3d5cc901a14d0258d52743\com.google.android.gms.play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a766c3b61a3d5cc901a14d0258d52743\com.google.android.gms.play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\574e55710f4c3854216ef43c84ffde88\com.google.android.gms.play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\574e55710f4c3854216ef43c84ffde88\com.google.android.gms.play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-16.0.1:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\574e55710f4c3854216ef43c84ffde88\com.google.android.gms.play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+uses-feature#android.hardware.camera.ar
+ADDED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:10:9-50
+meta-data#com.google.ar.core
+ADDED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:14:9-16:40
+	android:value
+		ADDED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:google_ar_required:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\35e89cc938a9b8e259b0ee196ae6c1cc\google_ar_required\AndroidManifest.xml:15:13-46
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from [:plugin1-debug:] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b31967c25caddfc5ba0da61b229e32b6\plugin1-debug\AndroidManifest.xml:15:22-78
